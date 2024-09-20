@@ -1,4 +1,6 @@
 Lebron commit
-Raptors commmit
+Raptors commit
 Comp Sci commit
 Math commit 
+Monkey commit
+Pistol commit
